@@ -7,7 +7,9 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+
   base: "/Power-Bi-Dashboards/",
+
   server: {
     host: "0.0.0.0",
     port: 5173,
