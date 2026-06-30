@@ -2,7 +2,7 @@
   "name": "power-bi-dashboards",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://TridipKarmakar.github.io/Power-Bi-Dashboards",
+  "homepage": "https://github.com/TridipKarmakar/Power-Bi-Dashboards.git",
   "type": "module",
 
   "scripts": {
